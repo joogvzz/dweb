@@ -1,6 +1,6 @@
 # Minería de Textos
 
-Este repositorio contiene el código fuente para Jupyter Book de los materiales de la asignatura Minería de Textos de la Universidad de Alicante. Los materiales resultantes pueden consultarse [aquí](https://jaspock.github.io/dweb).
+Este repositorio contiene el código fuente para Jupyter Book de los materiales de la asignatura Minería de Textos de la Universidad de Alicante. Los materiales resultantes pueden consultarse [aquí](https://joogvzz.github.io/dweb).
 
 ## Usage
 
